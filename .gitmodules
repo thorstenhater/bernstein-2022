@@ -1,0 +1,3 @@
+[submodule "skeleton"]
+	path = skeleton
+	url = https://gitlab.jsc.fz-juelich.de/herten1/talks-skeleton.git
